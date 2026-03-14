@@ -1,6 +1,6 @@
-﻿// Jaidan Dovala
+
 // 11 April 2022
-// C3400
+
 // pa5.fs
 // This assignment will be to write an expression evaluation function that take as arguments a 
 // list of variable bindings and a string that is composed of letters and operators from the set [+ - * /$@].  
